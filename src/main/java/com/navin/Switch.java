@@ -3,7 +3,7 @@ package com.navin;
 import java.io.FileNotFoundException;
 import java.io.UncheckedIOException;
 
-public class SwitchTest {
+public class Switch {
 
     public static void main(String... args) {
 
